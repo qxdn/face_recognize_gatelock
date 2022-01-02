@@ -1,0 +1,3 @@
+opencv-python
+httpx
+face_recognition

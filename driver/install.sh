@@ -1,0 +1,1 @@
+sudo pip3 install -t . -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
